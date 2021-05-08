@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sachindavra
-- 👀 I’m interested in Python scripting.
+- 👀 I’m interested in Python scripting and Linux.
 - 🌱 I’m currently learning DevOps.
 - 💞️ I’m looking to contribute towards Opensource. 
 - 📫 Reach me @raju.davra@gmail.com
