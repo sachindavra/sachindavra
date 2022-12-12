@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @sachindavra
-- 👀 I’m interested in Python scripting and Linux.
-- 🌱 I’m currently learning DevOps.
+- 👀 I’m interested in Python scripting and DevOps.
 - 💞️ I’m looking to contribute towards Opensource. 
-- 📫 Reach me @raju.davra@gmail.com
+- 📫 Reach me @sachin.davra@gmail.com
 
 <!---
 sachindavra/sachindavra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
